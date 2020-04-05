@@ -15,9 +15,8 @@
 ![alt text](https://image.prntscr.com/image/Pb5-TxZkQkO9KoHgdWjcgg.png "img 2")
 
 ### Step 3:
-    To run the script that we made we have to upload it or host it to a virtual server, in this example
-    I use 
- > [xampp](https://www.apachefriends.org/index.html) to host the test file.
+ > To run the script that we made we have to upload it or host it to a virtual server, in this example
+ > I use [xampp](https://www.apachefriends.org/index.html) to host the test file.
   
 ### Step 4:
     We need to access the file to the hosted directory since I'm using xampp i'll just need to access
